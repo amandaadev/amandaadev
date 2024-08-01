@@ -1,4 +1,4 @@
-## Oi, meu nome é Amanda 😊
+## Oi, meu nome é Amanda 🙋🏾‍♀️😊
 🎓 **Estudante de Sistemas de Informação** | **Estagiária em Desenvolvimento Front-end na Globo**
 
 - 💜 Apaixonada por criar interfaces intuitivas e funcionais, estou sempre em busca de novas tecnologias e desafios para aprimorar minhas habilidades.
@@ -6,11 +6,15 @@
 - 🚀 Estou em constante evolução, sempre buscando aprimorar meus conhecimentos para no futuro, seguir a carreira de desenvolvedora full stack!
 - 👩🏿‍💻 Atualmente mais focada em:
 
+
 <div style="display: inline">
   <img width= "50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width= "50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img width= "50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width= "50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img width= "50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img width= "50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+
 </div>
 
 ##
