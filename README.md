@@ -1,5 +1,5 @@
 ## Oi, meu nome é Amanda 🙋🏾‍♀️😊
-🎓 **Estudante de Sistemas de Informação** | **Estagiária em Desenvolvimento Front-end na Globo**
+🎓 **Formada em Sistemas de Informação** | **Desenvolvedora em constante evolução**
 
 - 💜 Apaixonada por criar interfaces intuitivas e funcionais, estou sempre em busca de novas tecnologias e desafios para aprimorar minhas habilidades.
 - 🔭 Compartilho aqui meus projetos e contribuições focados em HTML, CSS, JavaScript e mais!
